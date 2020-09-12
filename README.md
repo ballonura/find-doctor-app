@@ -5,7 +5,7 @@ Mobile-only (< 768px ) Find Doctor App.
 ## Demo
 
 ```bash
-https://find-doctor-app.vercel.app/
+https://find-doctor-app-3fvaq5ewx.vercel.app/
 ```
 
 ## Preview
