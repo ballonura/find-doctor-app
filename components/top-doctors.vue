@@ -35,12 +35,7 @@
 </template>
 
 <script>
-import TopDoctor from "~/components/top-doctor";
-
 export default {
-  components: {
-    TopDoctor
-  },
   data() {
     return {
       topDoctors: [

@@ -1,4 +1,16 @@
-# find-doctor-app
+# Find Doctor App
+
+Mobile-only (< 768px ) Find Doctor App.
+
+## Demo
+
+```bash
+https://find-doctor-app.vercel.app/
+```
+
+## Preview
+
+![Find Doctor App](https://i.ibb.co/d4SCJvQ/1.jpg)
 
 ## Build Setup
 
@@ -16,5 +28,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).

@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen container">
+  <div class="h-screen container sm:hidden">
     <Nuxt />
   </div>
 </template>
